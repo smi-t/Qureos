@@ -39,7 +39,7 @@ Qureos/
 ---
 
 ## 👨‍💻 Author
-[Your Name] ([your-github-profile])
+Smit Viradiya (https://github.com/smi-t)
 
 ---
 
